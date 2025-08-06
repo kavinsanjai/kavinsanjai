@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kavinsanjai</h1>
+<h1 align="center">Hi 👋, I'm Kavinsanjai</h1>
 <h3 align="center">Passionate Developer | Leading FOSS-CIT | Tech & Open Source Enthusiast | Exploring Systems & Full Stack Development</h3>
 
 - 🔭 I’m currently working on **"Lost and Found System"**
