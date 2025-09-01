@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **open-source contributions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kavinsanjai](https://github.com/kavinsanjai)
-
 - 📫 How to reach me **skkavin17122005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
